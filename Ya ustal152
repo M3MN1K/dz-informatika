@@ -1,0 +1,32 @@
+#1
+From random import*
+For I in range (10):
+a=randint(100,200)
+Print (a, end=' ')
+#2
+From import random*
+a=("aga:\n")
+b=("agda:\n")
+s=0
+For I in range (10):
+c=randint(a,b)
+s+=c
+Print (s)
+#3
+From random import*
+For I in range (20):
+a=randint(100,999)
+b=a%10
+If b==3:
+Orint("конец 3:",a)
+Else:
+Print (a) 
+#4
+From random import*
+For I in range(20):
+a=randint(100,999)
+b=a%10
+If b>=5:
+Print ('больше равно 5',a) 
+Else:
+Print(a)
