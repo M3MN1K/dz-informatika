@@ -30,3 +30,10 @@ If b>=5:
 Print ('больше равно 5',a) 
 Else:
 Print(a)
+#5
+a=0
+For i in range (10):
+s=randint100,1000)
+if s>a:
+a=s
+Print(a)
